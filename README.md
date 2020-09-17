@@ -8,29 +8,35 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## About Medical Appointments for Animals
 
->Project fully completed
+>Project fully completed.
 
-Este es mi primer proyecto realizado en React, ***no es funcional en tornos de producción***. Puede servir para ver funciones basicas de React y en entornos educativos
+This is my first project made in React, *** it is not functional on production lathes ***. It can be used to see basic React functions and in educational environments.
 
 
 
-## Imagenes
+## Images
 
-#### Cita
+#### No medical appointments
+
+<img src=https://i.ibb.co/bsy3k6T/sincitas.png>
+#### Medical appointment
 
 <img src=https://i.ibb.co/99djHWG/citas-medicas-animales.png>
+<img src=https://i.ibb.co/n36c2cT/cita2.png>
 
 
 
 
-## Demo
+
+## Simulator
 
 * https://citas-medicas-animales-react.netlify.app/
 
 
 
 
-## Comandos de consola
+## Console commands
+
 
 ### `npm start`
 
