@@ -6,9 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-## Acerca de Citas Medicas para Animales
+## About Medical Appointments for Animals
 
-> Proyecto totalmente finalizado
+>Project fully completed
 
 Este es mi primer proyecto realizado en React, ***no es funcional en tornos de producción***. Puede servir para ver funciones basicas de React y en entornos educativos
 
@@ -18,7 +18,7 @@ Este es mi primer proyecto realizado en React, ***no es funcional en tornos de p
 
 #### Cita
 
-! [texto alternativo] (https://i.ibb.co/99djHWG/citas-medicas-animales.png "cita")
+<img src=https://i.ibb.co/99djHWG/citas-medicas-animales.png>
 
 
 
@@ -26,6 +26,7 @@ Este es mi primer proyecto realizado en React, ***no es funcional en tornos de p
 ## Demo
 
 * https://citas-medicas-animales-react.netlify.app/
+
 
 
 
